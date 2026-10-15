@@ -1,0 +1,6 @@
+{'id': '101', 'Name': 'John', 'salary': 6000, 'Bonus': 600.0, 'total': 6600.0}
+{'id': '102', 'Name': 'Alice', 'salary': 7000, 'Bonus': 700.0, 'total': 7700.0}
+{'id': '104', 'Name': 'Emma', 'salary': 8000, 'Bonus': 800.0, 'total': 8800.0}
+{'id': '105', 'Name': 'David', 'salary': 3000, 'Bonus': 300.0, 'total': 3300.0}
+{'id': '105', 'Name': 'David', 'salary': 3000, 'Bonus': 300.0, 'total': 3300.0}
+{'id': '104', 'Name': 'Emma', 'salary': 8000, 'Bonus': 800.0, 'total': 8800.0}

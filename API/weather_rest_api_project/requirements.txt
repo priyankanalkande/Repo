@@ -1,0 +1,9 @@
+requests
+pandas 
+python-dotenv
+
+#pip install -r requirements.txt
+#active virtual env
+#Get-ExecutionPolicy
+#Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+#.venv\Scripts\Activate.ps1

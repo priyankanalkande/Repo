@@ -1,0 +1,6 @@
+ID,Name,Salary
+103,Bob,abc
+111,Daniel,
+114,Mia,abc
+
+122,Lucas,bad_data

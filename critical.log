@@ -1,0 +1,6 @@
+ERROR Database failed
+ERROR Timeout occurred
+ERROR API failed
+ERROR Invalid credentials
+CRITICAL Server down
+ERROR Network failure

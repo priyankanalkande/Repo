@@ -1,0 +1,15 @@
+P101,Laptop,55000,Electronics
+P102,Mouse,700,Electronics
+P103,Chair,3500,Furniture
+P104,Table,6200,Furniture
+P105,Phone,abc,Electronics
+P106,Bottle,500,Kitchen
+P107,Sofa,25000,Furniture
+P108,Headphones,1800,Electronics
+P109,Plate,300,Kitchen
+P110,Microwave,12000,Kitchen
+P111,TV,45000,Electronics
+P112,Bed,,Furniture
+P113,Fan,2800,Electronics
+P114,Oven,bad,Kitchen
+P115,Lamp,1500,Furniture

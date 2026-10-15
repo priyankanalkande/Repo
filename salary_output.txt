@@ -1,0 +1,4 @@
+{'id': 101, 'name': 'John', 'sal': 5000} bonus:5500.0
+{'id': 102, 'name': 'Alice', 'sal': 7000} bonus:8400.0
+{'id': 104, 'name': 'Emma', 'sal': 8000} bonus:9600.0
+{'id': 105, 'name': 'David', 'sal': 3000} bonus:3150.0

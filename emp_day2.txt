@@ -1,0 +1,10 @@
+101,John,5000
+104,Emma,8000
+107,Chris,6500
+126,Arjun,5500
+127,Riya,7800
+128,Kabir,4900
+129,Meera,9100
+120,Charlotte,7600
+125,Evelyn,8300
+130,Aditya,6200

@@ -1,0 +1,15 @@
+INFO User login
+ERROR Database failed
+INFO File uploaded
+ERROR Timeout occurred
+WARNING Disk space low
+ERROR API failed
+INFO Job started
+WARNING Memory usage high
+INFO Job completed
+ERROR Invalid credentials
+INFO User logout
+DEBUG Cache refreshed
+CRITICAL Server down
+WARNING CPU threshold exceeded
+ERROR Network failure
